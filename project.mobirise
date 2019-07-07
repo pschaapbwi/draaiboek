@@ -1196,6 +1196,9 @@
             },
             ".mbr-section-title": {
               "color": "#f7ed4a"
+            },
+            "H4": {
+              "color": "#073b4c"
             }
           },
           "_name": "features15",
